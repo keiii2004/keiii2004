@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Keiii;Junior+Backend+Developer;PHP+|+Laravel+|+Yii2;Realtime+Systems+|+DevOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Keiii;Junior+Backend+Developer;PHP+Laravel+%7C+Yii2;Realtime+Systems+%7C+DevOps+Mindset" />
 </h1>
 
 <p align="center">
@@ -18,60 +18,62 @@
 ---
 
 ## 👨‍💻 About Me
-🎯 **Junior Backend Developer** (PHP – Laravel, Yii2)  
-🏗 Working on **CRM & management systems**  
-⚡ Interested in **Realtime systems & backend architecture**  
-📍 Vietnam  
+
+🎯 **Junior Backend Developer** specializing in **PHP (Laravel, Yii2)**  
+🏗 Hands-on experience building **enterprise CRM & management systems**  
+⚡ Strong interest in **real-time systems**, backend architecture, and system performance  
+🧠 Focused on **clean code, maintainability, and scalable design**  
+📍 Based in **Vietnam**
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,docker,git,bootstrap,postman,gitlab" />
 </p>
+
+**Core Skills**
+- Backend: PHP (Laravel, Yii2)
+- API: RESTful APIs, JWT Authentication
+- Realtime: WebSocket, MQTT
+- Database: MySQL
+- DevOps: Docker, GitLab CI/CD
+- Practices: Clean Code, Basic Microservices, Event-driven concepts
 
 ---
 
 ## 🚀 What I Do
-- 🔧 Build backend services using PHP (Laravel, Yii2)
-- 🔐 Design RESTful APIs with JWT authentication
-- 💬 Develop real-time features (WebSocket, MQTT)
-- 🔌 Integrate third-party APIs (Zalo, Facebook)
-- 🐳 Deploy applications with Docker & CI/CD
+
+- 🔧 Develop **backend services** for CRM and internal management platforms
+- 🔐 Design and implement **secure RESTful APIs** (JWT, RBAC)
+- 💬 Build **real-time chat & notification systems** using WebSocket & MQTT
+- 🔌 Integrate **third-party APIs** (Zalo, Facebook)
+- 🐳 Containerize applications and participate in **CI/CD pipelines**
+- ♻️ Refactor legacy code to improve **performance & maintainability**
 
 ---
 
 ## 📌 Featured Projects
-🔹 CRM Backend API – Laravel, JWT, Docker  
-🔹 Realtime Chat Service – WebSocket, MQTT  
-🔹 Dockerized Laravel Environment  
 
-⬇️ *Pinned repositories below*
+- **CRM Backend System**  
+  Laravel, Yii2, JWT, Docker  
+  → Customer management, order processing, reporting modules
 
----
+- **Realtime Chat Service**  
+  WebSocket, MQTT  
+  → Internal chat & notification features for enterprise systems
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keiii2004&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiii2004&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/keiii2004/keiii2004/output/github-contribution-grid-snake.svg" />
-</p>
-
+- **Dockerized Backend Environment**  
+  Docker, GitLab CI/CD  
+  → Automated build & deployment pipelines
 ---
 
 ## 📫 Contact
-📧 Email: daotuanan2004@gmail.com  
-🌐 GitHub: https://github.com/keiii2004  
+
+📧 **Email:** daotuanan2004@gmail.com  
+🌐 **GitHub:** https://github.com/keiii2004  
 
 <p align="center">
-  <i>"Write clean code. Build reliable systems. Keep learning."</i>
+  <i>"Write clean code today. Build scalable systems tomorrow."</i>
 </p>
