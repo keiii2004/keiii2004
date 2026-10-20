@@ -45,14 +45,14 @@ Bạn có website cần phát triển tiếp, API cần kết nối hoặc một
 ## Công nghệ sử dụng
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-5B6096?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-C5312A?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Yii2-247BA0?style=for-the-badge" alt="Yii2" />
-  <img src="https://img.shields.io/badge/Moodle-CB6509?style=for-the-badge&amp;logo=moodle&amp;logoColor=white" alt="Moodle" />
+  <img src="https://img.shields.io/badge/Moodle-A85507?style=for-the-badge&amp;logo=moodle&amp;logoColor=white" alt="Moodle" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-B93825?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 
 Tôi dùng AI hỗ trợ đọc code, phát triển và kiểm thử; tôi chịu trách nhiệm kiểm tra phần việc mình bàn giao. Với công nghệ hoặc nghiệp vụ mới, tôi đánh giá khả năng đáp ứng sau khi xem yêu cầu và mã nguồn.
