@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+  <title id="title">Đào Tuấn An | Web Developer</title>
+  <desc id="desc">Banner cá nhân màu xanh ngọc và xanh đậm. PHP, API và Moodle LMS.</desc>
+  <rect width="1280" height="380" rx="24" fill="#0C1725"/>
+  <rect x="0" y="0" width="12" height="380" fill="#2DD4BF"/>
+  <rect x="56" y="52" width="190" height="4" rx="2" fill="#2DD4BF"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="56" y="113" fill="#8EAAA9" font-size="27" font-weight="600" letter-spacing="3">WEB DEVELOPER</text>
+    <text x="50" y="223" fill="#F2F7FA" font-size="91" font-weight="750" letter-spacing="-3">Đào Tuấn An</text>
+    <text x="56" y="296" fill="#5EEAD4" font-size="34" font-weight="500">PHP  /  API  /  MOODLE LMS</text>
+  </g>
+  <rect x="972" y="63" width="238" height="254" rx="26" fill="#102D35" stroke="#2DD4BF" stroke-width="2"/>
+  <text x="1091" y="252" text-anchor="middle" fill="#5EEAD4" font-family="Segoe UI,Arial,sans-serif" font-size="184" font-weight="650">A</text>
+</svg>
