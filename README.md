@@ -18,6 +18,15 @@ Tôi là An, lập trình viên tại Việt Nam với 2 năm kinh nghiệm. Tô
 
 Tôi dùng AI hỗ trợ đọc code, phát triển và kiểm thử; tôi chịu trách nhiệm kiểm tra phần việc mình bàn giao. Với công nghệ hoặc nghiệp vụ mới, tôi trao đổi mức độ đáp ứng sau khi xem yêu cầu và mã nguồn.
 
+## Kinh nghiệm dự án
+
+### LMS Moodle — Trường Đại học Gia Định
+
+Tham gia phát triển và tùy chỉnh hệ thống quản lý học tập (LMS) trên nền tảng Moodle cho Trường Đại học Gia Định.
+
+- **Nền tảng:** Moodle, PHP.
+- [Xem hệ thống LMS của Trường Đại học Gia Định](https://smart-lms-dev.giadinh.edu.vn/admin/search.php#linkmodules).
+
 ## Dự án công khai
 
 ### [Website nhà hàng — Vue 3](https://github.com/keiii2004/my-project-cuoiki)
