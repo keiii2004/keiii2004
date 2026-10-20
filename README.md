@@ -1,79 +1,53 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Keiii;Junior+Backend+Developer;PHP+Laravel+%7C+Yii2;Realtime+Systems+%7C+DevOps+Mindset" />
-</h1>
+# Đào Tuấn An
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Yii2-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+**Lập trình viên web · Nhận freelance theo đầu việc và dự án**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WebSocket-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitLab%20CI/CD-orange?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
+Tôi là An, lập trình viên tại Việt Nam với 2 năm kinh nghiệm. Tôi nhận phát triển thêm tính năng, sửa lỗi và tích hợp hệ thống cho website hiện có; ưu tiên trao đổi bằng tiếng Việt và thống nhất rõ phạm vi trước khi bắt đầu.
 
----
+**Lịch làm việc:** 18:00–23:00 hằng ngày, giờ Việt Nam (UTC+7). Thời hạn bàn giao được thống nhất theo từng đầu việc.
 
-## 👨‍💻 About Me
+[Trao đổi công việc qua email](mailto:daotuanan2004@gmail.com) · [Xem các repository](https://github.com/keiii2004?tab=repositories)
 
-🎯 **Junior Backend Developer** specializing in **PHP (Laravel, Yii2)**  
-🏗 Hands-on experience building **enterprise CRM & management systems**  
-⚡ Strong interest in **real-time systems**, backend architecture, and system performance  
-🧠 Focused on **clean code, maintainability, and scalable design**  
-📍 Based in **Vietnam**
+## Tôi có thể hỗ trợ
 
----
+- **Backend PHP:** phát triển tính năng và bảo trì ứng dụng Laravel, Yii2; xử lý dữ liệu với MySQL.
+- **Tích hợp hệ thống:** REST API, webhook, đồng bộ dữ liệu và kết nối dịch vụ bên thứ ba.
+- **Moodle/LMS:** tùy chỉnh chức năng, plugin và giao diện theo yêu cầu cụ thể.
+- **Giao diện web:** HTML, CSS, JavaScript và Vue; chỉnh sửa các màn hình và luồng tương tác.
+- **Bảo trì:** tìm nguyên nhân lỗi, chỉnh sửa code hiện có và kiểm tra lại luồng bị ảnh hưởng.
 
-## 🛠 Tech Stack
+Tôi dùng AI hỗ trợ đọc code, phát triển và kiểm thử; tôi chịu trách nhiệm kiểm tra phần việc mình bàn giao. Với công nghệ hoặc nghiệp vụ mới, tôi trao đổi mức độ đáp ứng sau khi xem yêu cầu và mã nguồn.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,docker,git,bootstrap,postman,gitlab" />
-</p>
+## Dự án công khai
 
-**Core Skills**
-- Backend: PHP (Laravel, Yii2)
-- API: RESTful APIs, JWT Authentication
-- Realtime: WebSocket, MQTT
-- Database: MySQL
-- DevOps: Docker, GitLab CI/CD
-- Practices: Clean Code, Basic Microservices, Event-driven concepts
+### [Website nhà hàng — Vue 3](https://github.com/keiii2004/my-project-cuoiki)
 
----
+Dự án học tập có mã nguồn công khai, gồm các màn hình danh sách món ăn, chi tiết sản phẩm, giỏ hàng, thanh toán và lịch sử mua hàng.
 
-## 🚀 What I Do
+- **Công nghệ trong repository:** Vue 3, Vue Router, Axios, JSON Server.
+- **Phạm vi:** giao diện và luồng mua hàng mẫu, sử dụng dữ liệu mô phỏng.
+- [Xem cấu trúc màn hình và routing](https://github.com/keiii2004/my-project-cuoiki/blob/main/src/router/index.js).
 
-- 🔧 Develop **backend services** for CRM and internal management platforms
-- 🔐 Design and implement **secure RESTful APIs** (JWT, RBAC)
-- 💬 Build **real-time chat & notification systems** using WebSocket & MQTT
-- 🔌 Integrate **third-party APIs** (Zalo, Facebook)
-- 🐳 Containerize applications and participate in **CI/CD pipelines**
-- ♻️ Refactor legacy code to improve **performance & maintainability**
+### [CV cá nhân — HTML](https://github.com/keiii2004/CV_DaoTuanAn)
+
+Repository trang CV cá nhân. Có thể xem mã nguồn để tham khảo cách tổ chức nội dung và giao diện.
+
+## Cách làm việc
+
+1. Xác nhận yêu cầu, quyền truy cập cần thiết và kết quả cần bàn giao.
+2. Gửi phạm vi, dự toán và mốc hoàn thành cho từng đầu việc.
+3. Thực hiện, cập nhật tiến độ và kiểm tra các luồng liên quan.
+4. Bàn giao thay đổi, hướng dẫn kiểm tra và các lưu ý vận hành nếu có.
+
+## Liên hệ
+
+**Email:** [daotuanan2004@gmail.com](mailto:daotuanan2004@gmail.com)  
+**GitHub:** [github.com/keiii2004](https://github.com/keiii2004)
+
+Khi liên hệ, anh/chị gửi giúp mô tả công việc, công nghệ đang sử dụng và thời hạn mong muốn. Tôi sẽ phản hồi về phạm vi và báo giá phù hợp.
 
 ---
 
-## 📌 Featured Projects
+### English
 
-- **CRM Backend System**  
-  Laravel, Yii2, JWT, Docker  
-  → Customer management, order processing, reporting modules
-
-- **Realtime Chat Service**  
-  WebSocket, MQTT  
-  → Internal chat & notification features for enterprise systems
-
-- **Dockerized Backend Environment**  
-  Docker, GitLab CI/CD  
-  → Automated build & deployment pipelines
----
-
-## 📫 Contact
-
-📧 **Email:** daotuanan2004@gmail.com  
-🌐 **GitHub:** https://github.com/keiii2004  
-
-<p align="center">
-  <i>"Write clean code today. Build scalable systems tomorrow."</i>
-</p>
+I'm An, a Vietnam-based web developer with 2 years of experience, available for scoped freelance tasks. My focus is PHP backend work, API integrations, Moodle customization, and web maintenance. I use AI-assisted development with review and verification of my deliverables. Available daily, 18:00–23:00 UTC+7. Vietnamese communication preferred.
